@@ -1,5 +1,7 @@
 # NeoVim config files
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/neovim-config.svg)](https://www.guardrails.io)
+
 It's a new start
 
 ## HowTo
